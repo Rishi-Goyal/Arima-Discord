@@ -38,4 +38,3 @@ async def on_message(message):
     if message.content.startswith('$derogatory'):
         await message.channel.send("You are Rishi's little slut, Divyika-san.")
 
-client.run('ODIwNTEwNjcxMDk1MzMyODgw.YE2OHA.ko7kd5_wYHXNG-yz8FaRoVwaRc0')
